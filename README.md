@@ -8,6 +8,8 @@ Projeto de criação de Ebook utilizando a IA
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
+<a href="https://github.com/LiaGuimaraes/Ebook_A_Programadora_em_voce/blob/main/E-BOOK-A%20PROGRAMADORA%20EM%20VOCE.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 
 
 ## 💻 Tecnologias utilizadas no projeto
